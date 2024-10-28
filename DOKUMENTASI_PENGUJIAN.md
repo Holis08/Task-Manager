@@ -1,5 +1,3 @@
-Berikut adalah contoh dokumentasi untuk Pengujian dan Dokumentasi API yang dikembangkan oleh Mahasiswa C. Anda dapat menyesuaikannya sesuai dengan kebutuhan proyek Anda.
-
 ---
 
 # Dokumentasi Pengujian API Task Manager
@@ -76,5 +74,3 @@ Menambahkan pengujian API dasar dan dokumentasi penggunaan
 - PR telah dibuat di GitHub untuk meminta tinjauan dari tim.
 
 ---
-
-Dokumentasi ini memberikan gambaran menyeluruh tentang pengujian API yang dilakukan, hasil yang diperoleh, serta langkah-langkah yang diambil. Pastikan untuk memperbarui dokumentasi ini sesuai dengan perkembangan dan perubahan dalam proyek Anda.
