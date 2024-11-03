@@ -12,5 +12,23 @@
         <a href="halaman-pembuatan-tugas.html">Buat Tugas</a>
         <a href="halaman-utama.html">Daftar Tugas</a>
     </nav>
+    <div class="filter-container">
+        <label for="filter-status">Filter Tugas Berdasarkan Status:</label>
+        <select id="filter-status" name="filter-status">
+            <option value="semua">Semua</option>
+            <option value="selesai">Selesai</option>
+            <option value="belum-selesai">Belum Selesai</option>
+        </select>
+    </div>
+    <div id="daftar-tugas">
+        
+    </div>
+
+    <script>
+        document.getElementById('filter-status').addEventListener('change', function() {
+            const status = this.value;
+            console.log("Filter diterapkan: " + status);
+        });
+    </script>
 </body>
 </html>
